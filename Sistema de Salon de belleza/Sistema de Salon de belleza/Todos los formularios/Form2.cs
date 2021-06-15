@@ -19,7 +19,7 @@ namespace Sistema_de_Salon_de_belleza
 
         private void Form2_Load(object sender, EventArgs e)
         {
-            menuStrip1.BackColor = Color.FromArgb(100, 0, 0, 0);
+           
         }
 
         private void salirToolStripMenuItem_Click(object sender, EventArgs e)
@@ -33,6 +33,16 @@ namespace Sistema_de_Salon_de_belleza
         }
 
         private void productosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void menuStrip2_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
         {
 
         }
