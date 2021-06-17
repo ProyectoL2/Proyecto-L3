@@ -83,5 +83,10 @@ namespace Sistema_de_Salon_de_belleza
             var form7 = new Todos_los_formularios.Citas();
             form7.ShowDialog();
         }
+
+        private void salirToolStripMenuItem_Click_1(object sender, EventArgs e)
+        {
+            
+        }
     }
 }
