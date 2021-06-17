@@ -60,6 +60,36 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Todos los formularios\Form3productos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Todos los formularios\Form3productos.Designer.cs">
+      <DependentUpon>Form3productos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Todos los formularios\Form4reportes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Todos los formularios\Form4reportes.Designer.cs">
+      <DependentUpon>Form4reportes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Todos los formularios\Form5clientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Todos los formularios\Form5clientes.Designer.cs">
+      <DependentUpon>Form5clientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Todos los formularios\Form6proveedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Todos los formularios\Form6proveedores.Designer.cs">
+      <DependentUpon>Form6proveedores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Todos los formularios\Form7Citas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Todos los formularios\Form7Citas.Designer.cs">
+      <DependentUpon>Form7Citas.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Todos los formularios\Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -74,7 +104,23 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="Todos los formularios\Form3productos.resx">
+      <DependentUpon>Form3productos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Todos los formularios\Form4reportes.resx">
+      <DependentUpon>Form4reportes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Todos los formularios\Form5clientes.resx">
+      <DependentUpon>Form5clientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Todos los formularios\Form6proveedores.resx">
+      <DependentUpon>Form6proveedores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Todos los formularios\Form7Citas.resx">
+      <DependentUpon>Form7Citas.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -87,6 +133,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icon\fondo-poligono-geometrico-papel-pintado-diamantes-patron-elegante-color-suave_206846-996.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
