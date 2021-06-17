@@ -19,8 +19,8 @@ namespace Sistema_de_Salon_de_belleza
 
         private void Form2_Load(object sender, EventArgs e)
         {
-            //var form1 = new Form1();
-           //form1.ShowDialog();
+            var form1 = new Form1();
+           form1.ShowDialog();
         }
 
         private void menuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)

@@ -53,10 +53,9 @@ namespace Sistema_de_Salon_de_belleza
             if ((TextBox1.Text == usuario1 && TextBox2.Text == contraseña1) || (TextBox1.Text == usuario2 && TextBox2.Text == contraseña2))
             {
                 MessageBox.Show ("--- BIENVENIDO ---");
-                var form2 = new Form2();
-                this.Hide();
-                form2.ShowDialog();
-                this.Hide();
+               
+                this.Close();
+                
             }             
         else
             {
