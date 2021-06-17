@@ -23,11 +23,6 @@ namespace Sistema_de_Salon_de_belleza
            //form1.ShowDialog();
         }
 
-        private void salirToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            
-        }
-
         private void menuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
         {
             
