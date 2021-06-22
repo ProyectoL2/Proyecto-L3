@@ -1,0 +1,5 @@
+C:\ProyectoL3\Sistema de Salon de belleza\SeguridadBL\bin\Debug\SeguridadBL.dll
+C:\ProyectoL3\Sistema de Salon de belleza\SeguridadBL\bin\Debug\SeguridadBL.pdb
+C:\ProyectoL3\Sistema de Salon de belleza\SeguridadBL\obj\Debug\BL.Rentas.csprojResolveAssemblyReference.cache
+C:\ProyectoL3\Sistema de Salon de belleza\SeguridadBL\obj\Debug\SeguridadBL.dll
+C:\ProyectoL3\Sistema de Salon de belleza\SeguridadBL\obj\Debug\SeguridadBL.pdb
