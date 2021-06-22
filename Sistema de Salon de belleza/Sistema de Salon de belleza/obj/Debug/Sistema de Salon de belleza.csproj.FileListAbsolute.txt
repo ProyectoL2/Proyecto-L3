@@ -1,0 +1,26 @@
+C:\ProyectoL3\Sistema de Salon de belleza\Sistema de Salon de belleza\bin\Debug\Sistema de Salon de belleza.exe.config
+C:\ProyectoL3\Sistema de Salon de belleza\Sistema de Salon de belleza\bin\Debug\Sistema de Salon de belleza.exe
+C:\ProyectoL3\Sistema de Salon de belleza\Sistema de Salon de belleza\bin\Debug\Sistema de Salon de belleza.pdb
+C:\ProyectoL3\Sistema de Salon de belleza\Sistema de Salon de belleza\obj\Debug\Sistema de Salon de belleza.csprojResolveAssemblyReference.cache
+C:\ProyectoL3\Sistema de Salon de belleza\Sistema de Salon de belleza\obj\Debug\Sistema_de_Salon_de_belleza.Form1.resources
+C:\ProyectoL3\Sistema de Salon de belleza\Sistema de Salon de belleza\obj\Debug\Sistema_de_Salon_de_belleza.Form2.resources
+C:\ProyectoL3\Sistema de Salon de belleza\Sistema de Salon de belleza\obj\Debug\Sistema_de_Salon_de_belleza.Properties.Resources.resources
+C:\ProyectoL3\Sistema de Salon de belleza\Sistema de Salon de belleza\obj\Debug\Sistema_de_Salon_de_belleza.Todos_los_formularios.Reportes.resources
+C:\ProyectoL3\Sistema de Salon de belleza\Sistema de Salon de belleza\obj\Debug\Sistema_de_Salon_de_belleza.Todos_los_formularios.Clientes.resources
+C:\ProyectoL3\Sistema de Salon de belleza\Sistema de Salon de belleza\obj\Debug\Sistema_de_Salon_de_belleza.Todos_los_formularios.Proveedores.resources
+C:\ProyectoL3\Sistema de Salon de belleza\Sistema de Salon de belleza\obj\Debug\Sistema_de_Salon_de_belleza.Todos_los_formularios.Citas.resources
+C:\ProyectoL3\Sistema de Salon de belleza\Sistema de Salon de belleza\obj\Debug\Sistema de Salon de belleza.csproj.GenerateResource.Cache
+C:\ProyectoL3\Sistema de Salon de belleza\Sistema de Salon de belleza\obj\Debug\Sistema de Salon de belleza.exe
+C:\ProyectoL3\Sistema de Salon de belleza\Sistema de Salon de belleza\obj\Debug\Sistema de Salon de belleza.pdb
+C:\ProyectoL3\Sistema de Salon de belleza\Sistema de Salon de belleza\bin\Debug\SeguridadBL.dll
+C:\ProyectoL3\Sistema de Salon de belleza\Sistema de Salon de belleza\bin\Debug\SeguridadBL.pdb
+C:\ProyectoL3\Sistema de Salon de belleza\Sistema de Salon de belleza\obj\Debug\Sistema_de_Salon_de_belleza.Todos_los_formularios.FormProductos.resources
+C:\Users\Gladys_Sosa\Downloads\Proyecto-L3-main\Sistema de Salon de belleza\Sistema de Salon de belleza\bin\Debug\Sistema de Salon de belleza.exe.config
+C:\Users\Gladys_Sosa\Downloads\Proyecto-L3-main\Sistema de Salon de belleza\Sistema de Salon de belleza\obj\Debug\Sistema de Salon de belleza.exe
+C:\Users\Gladys_Sosa\Downloads\Proyecto-L3-main\Sistema de Salon de belleza\Sistema de Salon de belleza\obj\Debug\Sistema de Salon de belleza.pdb
+C:\Users\Gladys_Sosa\Downloads\Proyecto-L3\Sistema de Salon de belleza\Sistema de Salon de belleza\bin\Debug\Sistema de Salon de belleza.exe.config
+C:\Users\Gladys_Sosa\Downloads\Proyecto-L3\Sistema de Salon de belleza\Sistema de Salon de belleza\obj\Debug\Sistema de Salon de belleza.exe
+C:\Users\Gladys_Sosa\Downloads\Proyecto-L3\Sistema de Salon de belleza\Sistema de Salon de belleza\obj\Debug\Sistema de Salon de belleza.pdb
+C:\Users\Gladys_Sosa\source\repos\Proyecto-L3\Sistema de Salon de belleza\Sistema de Salon de belleza\bin\Debug\Sistema de Salon de belleza.exe.config
+C:\Users\Gladys_Sosa\source\repos\Proyecto-L3\Sistema de Salon de belleza\Sistema de Salon de belleza\obj\Debug\Sistema de Salon de belleza.exe
+C:\Users\Gladys_Sosa\source\repos\Proyecto-L3\Sistema de Salon de belleza\Sistema de Salon de belleza\obj\Debug\Sistema de Salon de belleza.pdb
